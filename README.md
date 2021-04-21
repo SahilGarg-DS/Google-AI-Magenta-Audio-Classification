@@ -1,1 +1,1 @@
-# Google-AI-Magenta-Audio-Classification
+# GoogleAI-Magenta-Audio-Classification
