@@ -1,1 +1,1 @@
-# GoogleAI-Magenta-Audio-Classification - Open Source
+# GoogleAI-Magenta-Audio-Classification - Open Source Contribution
